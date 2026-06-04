@@ -680,8 +680,8 @@ http://akasaijr.myftp.org:21585/discovery/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ace.hoiquan.click/module/IPTV/?id=discoveryasia&accKenh=vuminhthanh1
 
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p)
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/nGSsUd4.png" ,BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1.cn@HD" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV-1 (1080p)
+#EXTINF:-1 tvg-id="CCTV1.cn@HD" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/TpA3cUl.png" ,CCTV-1 (1080p)
 http://69.30.245.50/live/cctv1.m3u8
