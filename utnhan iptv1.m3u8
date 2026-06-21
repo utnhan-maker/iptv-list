@@ -1,0 +1,107 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="📦| VTV",VTV1 HD (1080p)
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="📦| VTV",VTV2 HD (1080p)
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="📦| VTV",VTV3 HD (1080p)
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="📦| VTV",VTV4 HD (1080p)
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="📦| VTV",VTV5 HD (1080p)
+https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="📦| VTV",VTV5 Tây Nam Bộ HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="📦| VTV",VTV5 Tây Nguyên HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png" group-title="📦| VTV",VTV6 (1080p)
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="📦| VTV",VTV7 HD (1080p)
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="📦| VTV",VTV8 HD (1080p)
+https://live.fptplay53.net/live/media/vtv8/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="📦| VTV",VTV9 HD (1080p)
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV10.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="📦| VTV",VTV10 (1080p)
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="🇻🇳| Địa phương",QPVN HD (1080p)
+https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="🇻🇳| Địa phương",ANTV (1080p)
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="🇻🇳| Địa phương",Cần Thơ TV1 (1080p)
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="🇻🇳| Địa phương",Cần Thơ TV2 (1080p)
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV3.vn@SD" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="🇻🇳| Địa phương",Cần Thơ TV3 (1080p)
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="📦| China",CCTV-1 (1080p)
+http://69.30.245.50/live/cctv1.m3u8
+
+#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="📦| China",CCTV-Culture of Quality (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="📦| China",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="boomerang" group-title="🌈| KIDS" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| KIDS" tvg-logo="https://i.ibb.co/THfL7QS/Dream-Works-cc.png", Dreamworks
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="babytvhd" group-title="🌈| KIDS" tvg-logo="https://i.ibb.co/Ht2cjfV/Baby-TV-cc.webp", BabyTV HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=150391&extension=ts&play_token=7pUsoprXJc
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| KIDS" tvg-logo="https://mytv.com.vn/upload/channel/179.png", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| KIDS" tvg-logo="https://i.imgur.com/ePT0YZ4.png", BBC CBEEBIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="7RwmDbp" group-title="🌈| KIDS" tvg-logo="https://i.ibb.co/7RwmDbp/Da-vinci-learning-21.png", DAVINCI LEARNING
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🌈| KIDS" tvg-logo="https://i.imgur.com/FblenhB.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:0 type="stream" group-title="🌈| KIDS" tvg-id="ebskids" tvg-logo="https://i.ibb.co/Tk66hWb/ebskids.png",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="📦| China",Hunan TV (2160p)
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+#EXTINF:-1,group-title="📦| World",Private HD
+http://81.15.109.89:8001/play/Private
+
+#EXTINF:0 tvg-rec="0",group-title="📦| World",Playboy Plus
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/6242/index.m3u8
