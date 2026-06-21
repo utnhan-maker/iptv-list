@@ -28,7 +28,7 @@ https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="📦| VTV",VTV8 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv8/live247-hls-avc/index.m3u8
+https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="📦| VTV",VTV9 HD (1080p)
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
