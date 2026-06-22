@@ -39,15 +39,6 @@ https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="📦| VTV",Vietnam Today (1080p)
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 
-#EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="🇻🇳| Địa phương",Cần Thơ TV1 (1080p)
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CanThoTV2.vn@SD" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="🇻🇳| Địa phương",Cần Thơ TV2 (1080p)
-https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CanThoTV3.vn@SD" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="🇻🇳| Địa phương",Cần Thơ TV3 (1080p)
-https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="🇨🇳| China",CCTV-1 (1080p)
 http://69.30.245.50/live/cctv1.m3u8
 
