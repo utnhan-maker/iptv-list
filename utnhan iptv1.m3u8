@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.postimg.cc/F1FvzstX/V1.png" group-title="🇻🇳| VTV",VTV1
-https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.postimg.cc/yDR4tDRm/V2.png" group-title="🇻🇳| VTV",VTV2
-https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.postimg.cc/B8cWZRM0/V3.png" group-title="🇻🇳| VTV",VTV3
 https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
